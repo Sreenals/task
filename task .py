@@ -1,2 +1,5 @@
 print("getting to the new task")
 print("with lots of expectations")
+a = input("Enter your Name:")
+b = input("Enter your Age :")
+print("Name:",a,"Age:",b)
